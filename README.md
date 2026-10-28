@@ -1,7 +1,7 @@
 <h1># Github_Tutorial</h1>
 <br>
 <hr>
-This is my <i><u>First Repository</u></i>. 
+This is my <U><i>First Repository</i></u>. 
 <br>
 <hr>
 <p>
